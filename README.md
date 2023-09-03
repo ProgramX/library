@@ -1,6 +1,6 @@
 # Welcome to the **Library**
 
-This library is dedicated to collecting and showcasing various projects, works, research papers, writings, and programs. Whether you're a student, researcher, enthusiast, or creator, this library serves as a valuable resource to explore diverse talents and accomplishments from various contributors. - To contribute, create an issue in the [GitHub Repository](https://github.com/programx/library) associated with this library.
+This library is dedicated to collecting and showcasing various projects, works, research papers, writings, and programs made by students. - To contribute, create an issue in the [GitHub Repository](https://github.com/programx/library) associated with this library.
 
 ## Solved Labs
 - [Object Oriented Programming Solved Lab Manual Solution](https://github.com/HasaanAhmad/Object-Oriented-Programming-Lab-Manual-Comsats-University-Islamabad): Object Oriented Programming 3rd Semester Course Lab
